@@ -1,7 +1,8 @@
 
 ### Hi there 👋
+Thank you for visiting my page!
 
-## I'm Jun Ueno
+## Jun Ueno
 
 ###### ***Software Developer*** | ***Blockchain Enthusiast (No Cryptocurrency)***
 
