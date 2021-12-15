@@ -1,16 +1,34 @@
+
 ### Hi there 👋
 
-<!--
-**jun-uen0/jun-uen0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Jun Ueno
 
-Here are some ideas to get you started:
+###### ***Software Developer*** | ***Blockchain Enthusiast (No Cryptocurrency)***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Twitter:** [@jun_uen0](https://twitter.com/jun_uen0)
+* **LinkedIn:** [Jun Ueno](https://www.linkedin.com/in/jun-uen0/)
+
+### Stacks that I have experience in work:
+
+* AWS (ECS/ECR/Fargate/EC2)
+* GCP (APIs)
+* Firebase (Firestore/Hosting)
+* Vue.js
+* Nuxt.js
+* Node.js
+* JavaScript
+* Google Apps Script
+
+### Stacks that I have experience in private projects:
+
+* MySQL
+* PHP
+* Python
+* Laravel
+* Django
+* React
+
+### Stacks that I study:
+
+* TypeScript
+* Blockchain (Smartcontract & NFT)
