@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-Thank you for visiting my page!
+
 
 ## Jun Ueno
 
@@ -11,25 +11,17 @@ Thank you for visiting my page!
 
 ### Stacks that I have experience in work:
 
-* AWS (ECS/ECR/Fargate/EC2)
-* GCP (APIs)
-* Firebase (Firestore/Hosting)
-* Vue.js
-* Nuxt.js
-* Node.js
-* JavaScript
-* Google Apps Script
+AWS (ECS/ECR/Fargate/EC2) / GCP (APIs) / Firebase (Firestore/Hosting)
+Vue.js / Nuxt.js / Node.js
+JavaScript / Google Apps Script
 
 ### Stacks that I have experience in private projects:
 
-* MySQL
-* PHP
-* Python
-* Laravel
-* Django
-* React
+MySQL
+PHP / Python
+Laravel / Django / React
 
 ### Stacks that I study:
 
-* TypeScript
-* Blockchain (Smartcontract & NFT)
+TypeScript
+Blockchain (Smartcontract & NFT)
