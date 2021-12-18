@@ -6,7 +6,7 @@
 * **Twitter:** [@jun_uen0](https://twitter.com/jun_uen0)
 * **LinkedIn:** [Jun Ueno](https://www.linkedin.com/in/jun-uen0/)
 
-### Stacks I have experience in work
+### Skills I have experience in work
 
 <div>
   <img src="https://img.shields.io/badge/Javascript-339933?style=flat-square&logo=javascript&logoColor=white" />
