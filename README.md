@@ -5,6 +5,7 @@
 ### Social Accounts
 * **Twitter:** [@jun_uen0](https://twitter.com/jun_uen0)
 * **LinkedIn:** [Jun Ueno](https://www.linkedin.com/in/jun-uen0/)
+* **GitLab:** [Jun Ueno](https://gitlab.com/jun-uen0/)
 
 ### Skills I have experience in work
 
