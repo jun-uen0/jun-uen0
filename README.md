@@ -35,5 +35,3 @@
   <img src="https://img.shields.io/badge/Photoshop-007acc?style=flat-square&logo=AdobePhotoshop&logoColor=black" />
   <img src="https://img.shields.io/badge/XD-d24dff?style=flat-square&logo=AdobeXD&logoColor=black" />
 </div>
-
-<p>testing Replit</p>
