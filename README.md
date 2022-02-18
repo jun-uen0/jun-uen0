@@ -7,7 +7,7 @@
 * **LinkedIn:** [Jun Ueno](https://www.linkedin.com/in/jun-uen0/)
 * **GitLab:** [Jun Ueno](https://gitlab.com/jun-uen0/)
 
-### Skills I have experience in work
+### Tech Stacks
 
 <div>
   <img src="https://img.shields.io/badge/Javascript-339933?style=flat-square&logo=javascript&logoColor=white" />
