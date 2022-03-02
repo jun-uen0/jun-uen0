@@ -11,6 +11,7 @@
 
 <div>
   <img src="https://img.shields.io/badge/Javascript-339933?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Typescript-3330ff?style=flat-square&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/GoogleAppsScript-3399ff?style=flat-square&logo=google&logoColor=white" />
 </div>
 
