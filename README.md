@@ -1,13 +1,12 @@
 ## Jun Ueno
 ###### Software Developer | Blockchain Enthusiast (No Crypto) | Based in Japan
-</br>
 
-##### Social Accounts
+#### Social Accounts
 [Twitter](https://twitter.com/jun_uen0) |
 [LinkedIn](https://www.linkedin.com/in/jun-uen0/) |
 [GitLab](https://gitlab.com/jun-uen0/)
 
-##### Tech Stacks
+#### Tech Stacks
 
 <div>
   <img src="https://img.shields.io/badge/Javascript-339933?style=flat-square&logo=javascript&logoColor=white" />
@@ -32,7 +31,7 @@
   <img src="https://img.shields.io/badge/Firebase-ffaa00?style=flat-square&logo=firebase&logoColor=white" />
 </div>
 
-##### Design Tools
+#### Design Tools
 <div>
   <img src="https://img.shields.io/badge/Illustrator-e68a00?style=flat-square&logo=AdobeIllustrator&logoColor=black" />
   <img src="https://img.shields.io/badge/Photoshop-007acc?style=flat-square&logo=AdobePhotoshop&logoColor=black" />
