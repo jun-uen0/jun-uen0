@@ -1,23 +1,24 @@
-## Jun Ueno
-###### ***Software Developer*** | ***Blockchain Enthusiast (No Cryptocurrency)***
+### Jun Ueno
+###### Software Developer | Blockchain Enthusiast (No Crypto) | Based in Japan
 
 
-### Social Accounts
-* **Twitter:** [@jun_uen0](https://twitter.com/jun_uen0)
-* **LinkedIn:** [Jun Ueno](https://www.linkedin.com/in/jun-uen0/)
-* **GitLab:** [Jun Ueno](https://gitlab.com/jun-uen0/)
+##### Social Accounts
+[Twitter](https://twitter.com/jun_uen0) |
+[LinkedIn](https://www.linkedin.com/in/jun-uen0/) |
+[GitLab](https://gitlab.com/jun-uen0/)
 
-### Tech Stacks
+##### Tech Stacks
 
 <div>
   <img src="https://img.shields.io/badge/Javascript-339933?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Typescript-3330ff?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/GoogleAppsScript-3399ff?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Typescript-007acc?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoogleAppsScript-FBB305?style=flat-square&logo=google&logoColor=white" />
 </div>
 
 <div>
   <img src="https://img.shields.io/badge/Vue.js-00b359?style=flat-square&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nuxt.js-4EA94B?style=flat-square&logo=Nuxt.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React.js-1e90ff?style=flat-square&logo=React.js&logoColor=white"/>
 </div>
 
 <div>
@@ -31,7 +32,7 @@
   <img src="https://img.shields.io/badge/Firebase-ffaa00?style=flat-square&logo=firebase&logoColor=white" />
 </div>
 
-### Design Tools
+##### Design Tools
 <div>
   <img src="https://img.shields.io/badge/Illustrator-e68a00?style=flat-square&logo=AdobeIllustrator&logoColor=black" />
   <img src="https://img.shields.io/badge/Photoshop-007acc?style=flat-square&logo=AdobePhotoshop&logoColor=black" />
