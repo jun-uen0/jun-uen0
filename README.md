@@ -1,6 +1,6 @@
-### Jun Ueno
+## Jun Ueno
 ###### Software Developer | Blockchain Enthusiast (No Crypto) | Based in Japan
-
+</br>
 
 ##### Social Accounts
 [Twitter](https://twitter.com/jun_uen0) |
