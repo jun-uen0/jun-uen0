@@ -1,10 +1,6 @@
 ## Jun Ueno
 ###### Software Developer | Blockchain Enthusiast (No Crypto) | Based in Japan
 
-**Social Accounts**  
-[Twitter](https://twitter.com/jun_uen0) |
-[LinkedIn](https://www.linkedin.com/in/jun-uen0/)
-
 **Writer at**  
 [Dev.to](https://dev.to/jun_uen0) |
 [Zenn](https://zenn.dev/jun_uen0)
