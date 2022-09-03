@@ -1,12 +1,16 @@
 ## Jun Ueno
 ###### Software Developer | Blockchain Enthusiast (No Crypto) | Based in Japan
 
+**Tech Blog**  
+https://jun-uen0.web.app
+
 **Writer at**  
 [Dev.to](https://dev.to/jun_uen0) |
 [Zenn](https://zenn.dev/jun_uen0)
 
 **Tech Stacks**  
 <div>
+  <img src="https://img.shields.io/badge/Python-5f7073?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Javascript-339933?style=flat-square&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Typescript-007acc?style=flat-square&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/GoogleAppsScript-FBB305?style=flat-square&logo=google&logoColor=white" />
@@ -26,7 +30,7 @@
 <div>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-219fde?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-ffaa00?style=flat-square&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FBB305?style=flat-square&logo=firebase&logoColor=white" />
 </div>
 
 #### Design Tools
