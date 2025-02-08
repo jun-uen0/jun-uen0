@@ -1,5 +1,5 @@
 ## Jun U.
-###### DevOps Engineer | Based in Japan
+###### Site Reliability Engineering and DevOps based in Japan and Thailand
 
 **Tech Blog**: https://jun-uen0.web.app
 
