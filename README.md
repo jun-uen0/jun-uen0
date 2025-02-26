@@ -7,7 +7,6 @@ Experienced in leading infrastructure projects and cross-functional team collabo
 
 ## Links
 - **[LinkedIn](https://www.linkedin.com/in/jun-uen0)**  
-- **[GitHub](https://github.com/jun-uen0)**  
 - **[LeetCode](https://leetcode.com/u/jun-uen0)**   
 
 ---
