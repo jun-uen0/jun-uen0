@@ -1,15 +1,2 @@
 ## Jumpei Ueno
-Site Reliability Engineer with 4+ years of experience in AWS and cloud infrastructure. Expert in CI/CD, IaC, and automation.
-Proficient in GitLab CI/CD, Docker, Terraform, Ansible, Bash, and Python.  
-Experienced in leading infrastructure projects and cross-functional team collaboration.
-
----
-
-## Links
-- **[LinkedIn](https://www.linkedin.com/in/jun-uen0)**  
-- **[LeetCode](https://leetcode.com/u/jun-uen0)**   
-
----
-
-## Contacts
-📧 hello@junueno.dev  
+DevOps / SRE engineer with 5 years of experience across AWS, GCP, and cloud-native infrastructure. Proven track record in designing CI/CD pipelines, automating IaC, container orchestration, and monitoring solutions. Experienced in release processes, troubleshooting, and the Software Development Lifecycle. Adept at bridging communication between offshore teams and stakeholders, with hands-on leadership in delivering scalable, secure, and cost-effective systems. Fluent in both Japanese and English, with direct cross-border project experience, collaborating closely with cross-functional teams.
