@@ -1,2 +1,15 @@
 ## Jumpei Ueno
-DevOps / SRE engineer with 5 years of experience across AWS, GCP, and cloud-native infrastructure. Proven track record in designing CI/CD pipelines, automating IaC, container orchestration, and monitoring solutions. Experienced in release processes, troubleshooting, and the Software Development Lifecycle. Adept at bridging communication between offshore teams and stakeholders, with hands-on leadership in delivering scalable, secure, and cost-effective systems. Fluent in both Japanese and English, with direct cross-border project experience, collaborating closely with cross-functional teams.
+
+**DevOps & SRE Engineer** with 5+ years of experience working across AWS, GCP
+
+### Specialize in
+- IaC
+- CI/CD pipelines
+- Container orchestration
+- Monitoring & observability
+- Cloud cost optimization & secure architecture
+
+I’ve led cross-functional, international teams and bridged communication between stakeholders and offshore developers.  
+Currently building AI-powered coaching tool using modern LLM stacks（launching soon...）
+
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/your-profile)!  
