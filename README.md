@@ -6,3 +6,6 @@
 - DevOps engineering
 - Monitoring & observability
 - Cloud cost optimization & secure architecture
+
+#### Projects
+- **RakuChat LINE Translator** — https://line-translator-web.raku.chat
