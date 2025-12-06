@@ -8,4 +8,4 @@
 - Cloud cost optimization & secure architecture
 
 #### Projects
-- **RakuChat LINE Translator** — https://line-translator-web.raku.chat
+- [**RakuChat LINE Translator**](https://line-translator-web.raku.chat)
